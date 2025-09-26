@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 你好 / Hello, I'm Luana Francisco
 
-<!--
-**web3-ai-game/web3-ai-game** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 关于我 / About Me
+- 🎯 **专注方向 / Focus**: 自然语言指挥AI开发 / Natural Language AI Development
+- 🌱 **正在学习 / Learning**: 全栈Web开发 + MCP项目 / Full-Stack Web + MCP Projects  
+- 💡 **目标 / Goal**: 成为AI原生开发者 / Become an AI-Native Developer
+- 🏫 **背景 / Background**: 国际学校学生 / International School Student
 
-Here are some ideas to get you started:
+## 🛠️ 技术栈 / Tech Stack
+x x x
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 当前项目 / Current Projects
+- 🤖 **MCP精确索引 / MCP Precise Indexing**: 提高AI输出准确性 / Improving AI output accuracy
+- 🎮 **AI游戏叙事 / AI Game Narratives**: 智能故事生成系统 / Intelligent story generation
