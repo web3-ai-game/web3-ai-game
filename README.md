@@ -14,4 +14,3 @@ x x x
 - 🎮 **AI游戏叙事 / AI Game Narratives**: 智能故事生成系统 / Intelligent story generation
 ![Verified](https://img.shields.io/badge/Verified-Developer-success?style=for-the-badge&logo=checkmarx)
 ![Professional](https://img.shields.io/badge/Professional-Full--Stack-blue?style=for-the-badge&logo=codementor)
-![WakaTime](https://wakatime.com/badge/user/YOUR-ID.svg)
