@@ -42,13 +42,13 @@
 
 ---
 
-## � Core Services | 核心服務
+## 🔥 Core Services | 核心服務
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### �️ **Security Consulting**
+### 🛡️ **Security Consulting**
 ### 安全諮詢服務
 
 ```yaml
@@ -162,7 +162,7 @@ Vector_Services:
 **Dual AI Bot System for Telegram**
 雙AI機器人系統 - Grok 4 驅動
 
-- � Deep Reasoning Mode (Grok-4)
+- 🧠 Deep Reasoning Mode (Grok-4)
 - 🔒 Anti-Abuse Protection (2 req/min)
 - 💬 Multi-model Routing
 - 📊 Cognitive Health Monitoring
@@ -181,7 +181,7 @@ Vector_Services:
 
 - 📖 1016 Books Indexed
 - 🗂️ 1303 Structured Data Entries
-- � Semantic Search Enabled
+- 🔍 Semantic Search Enabled
 - 🧬 Vector Embeddings (768-dim)
 
 </td>
@@ -212,7 +212,7 @@ Vector_Services:
 數字黃金庫 - 76KB高密度知識
 
 - 🧠 166MB → 76KB (99.95% compression)
-- � 7 Golden Documents
+- 📚 7 Golden Documents
 - 🎯 AI Distillation Methodology
 - 🔑 Gemini Strategy Guides
 
@@ -222,7 +222,7 @@ Vector_Services:
 
 ---
 
-## � GitHub Analytics | 數據統計
+## 📊 GitHub Analytics | 數據統計
 
 <div align="center">
 
@@ -235,7 +235,7 @@ Vector_Services:
 
 <img src="https://github-profile-trophy.vercel.app/?username=web3-ai-game&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 
-### � Contribution Graph
+### 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=web3-ai-game&theme=redical&hide_border=true&bg_color=0D1117&color=00FF41&line=FF6B6B&point=00FF41" />
 
@@ -243,7 +243,7 @@ Vector_Services:
 
 ---
 
-## � Digital Nomad Perks | 數字遊民福利
+## 🌍 Digital Nomad Perks | 數字遊民福利
 
 <div align="center">
 
@@ -306,14 +306,14 @@ Vector_Services:
 </tr>
 </table>
 
-### � Email Channels
+### 📧 Email Channels
 
 | Purpose | Address | Priority |
 |---------|---------|----------|
 | 🔐 **Secure/Private** | `svs.sos@pm.me` | 🔴 High |
 | 🏢 **Business** | `root@oece.tech` | 🟡 Medium |
 | ⭐ **VIP** | `vip@oece.tech` | 🟡 Medium |
-| � **General** | `oece.tech@gmail.com` | � Normal |
+| 🌐 **General** | `oece.tech@gmail.com` | 🟢 Normal |
 
 ### 📱 Phone (Thailand)
 
@@ -327,7 +327,7 @@ Vector_Services:
 
 ---
 
-## � Crypto | 加密貨幣
+## 💰 Crypto | 加密貨幣
 
 <div align="center">
 
