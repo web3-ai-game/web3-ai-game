@@ -281,6 +281,7 @@ Vector_Services:
 <img src="https://img.icons8.com/fluency/96/telegram-app.png" width="60"/>
 <br/><b>Telegram</b><br/>
 <a href="https://t.me/svskilo">@svskilo</a>
+<br/><sub>👥 Group: <a href="https://t.me/oece_tech">@oece_tech</a></sub>
 </td>
 <td align="center" width="20%">
 <img src="https://img.icons8.com/fluency/96/discord-logo.png" width="60"/>
