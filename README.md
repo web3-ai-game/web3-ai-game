@@ -1,182 +1,220 @@
+<!-- 
+  ╔══════════════════════════════════════════════════════════════════════════════╗
+  ║  🔐 DEEPWEAY LABS | Security-First Full-Stack AI Infrastructure Architect   ║
+  ║  🌏 Digital Nomad | Southeast Asia Based | Remote Security Consultant       ║
+  ╚══════════════════════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-# 🌊 DeepWeay Labs
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=DeepWeay%20Labs&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Security%20%7C%20AI%20Infrastructure%20%7C%20Vector%20Engineering&descAlignY=55&descSize=18)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=AI-Native+Developer+%7C+Educator+%7C+Builder;Certified+GCP+Professional+%F0%9F%8E%93;GitHub+Education+PRO+%E2%9C%A8;DeepWeay-SMS+Pipeline+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%90+Offensive+Security+%7C+Red+Team+Operations;%F0%9F%A7%A0+LLM+Fine-Tuning+%7C+Vector+Database+Architect;%F0%9F%8C%8F+Digital+Nomad+%7C+Southeast+Asia+Based" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GCP-Professional-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Education_PRO-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Educator-Certified-00C853?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Native-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+<br/>
+
+<!-- 專業認證徽章 -->
+<p>
+  <img src="https://img.shields.io/badge/OSCP-Offensive_Security-DC143C?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-Certified-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-```ascii
-╔═══════════════════════════════════════════════════════════════════╗
-║   🧠 認知蒸餾引擎 → 🎯 30倉庫提煉 → 💎 高密度知識輸出          ║
-║   166MB 混沌 → 76KB 黃金 | 2000x密度 | 98%純度 | 36%去重        ║
-╚═══════════════════════════════════════════════════════════════════╝
+<p>
+  <img src="https://img.shields.io/badge/GitHub-Education_PRO-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-API_Access-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-API_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok-xAI_API-000000?style=for-the-badge&logo=x&logoColor=white" />
+</p>
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════════╗
+║  🛡️ Red Team Operator | 🧠 AI/ML Engineer | 🔧 Full-Stack Security Architect     ║
+║  紅隊滲透專家 | 大語言模型微調工程師 | 全棧安全架構師                              ║
+╠═══════════════════════════════════════════════════════════════════════════════════╣
+║  🎯 Handled 10B+ concurrent connections in live broadcast infrastructure          ║
+║  🎯 曾參與處理數十億級併發的直播基礎設施安全防護                                    ║
+╚═══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## 🚀 Flagship Project: DeepWeay-SMS (Beta)
-
-> **The Knowledge Distillation Pipeline That Turns Code Chaos Into Digital Gold**
+## � Core Services | 核心服務
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔥 Pipeline Highlights
-
-```mermaid
-graph LR
-    A[30 Repos] --> B[AI Distillation]
-    B --> C[Vector Compression]
-    C --> D[76KB Gold]
-    style A fill:#ff6b6b
-    style D fill:#51cf66
-```
-
-**Performance Metrics:**
-- 📦 **Input**: 166MB (30 repositories)
-- 💎 **Output**: 76KB (7 core docs)
-- ⚡ **Compression**: 99.95%
-- 🎯 **Density**: 2000x improvement
-- 🧬 **Deduplication**: 36% redundancy removed
-
-</td>
-<td width="50%">
-
-### 🛠️ Tech Architecture
+### �️ **Security Consulting**
+### 安全諮詢服務
 
 ```yaml
-Distillation_Engine:
-  Stage_1: Deduplication (T: 0.3-0.5)
-  Stage_2: Extraction (T: 0.1-0.3)
-  Stage_3: Restructure (T: 0.5-0.7)
-  Stage_4: Rendering (T: 0.7-0.9)
+Offensive_Security:
+  - Penetration Testing (Web/Mobile/API)
+  - Red Team Operations & Assessments
+  - DDoS/CC Mitigation (10B+ scale exp.)
+  - Infrastructure Hardening
+  - Incident Response & Forensics
 
-AI_Stack:
-  - Gemini 2.0 Flash (28 Free Keys)
-  - OpenRouter ($1,111 Balance)
-  - Supabase Vector (768-dim)
-  - Notion API Integration
+Defensive_Architecture:
+  - Zero Trust Network Design
+  - Cloud Security (GCP/AWS/DO)
+  - Container Security (K8s/Docker)
+  - WAF/CDN Configuration
 ```
+
+**💰 Service Model**: End-to-End Solutions
+**服務模式**: 從方案設計到落地解決，一對一遠程全棧安全
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 **AI Infrastructure**
+### AI 基礎設施服務
+
+```yaml
+LLM_Engineering:
+  - Model Fine-Tuning (LoRA/QLoRA)
+  - Vector Database Architecture
+  - RAG Pipeline Development
+  - Custom AI Agent Building
+  - API Gateway & Load Balancing
+
+Vector_Services:
+  - 768-dim Embedding Systems
+  - Semantic Search Infrastructure
+  - Knowledge Base Distillation
+  - Multi-modal Vector Processing
+```
+
+**🔧 Tech Stack**: Gemini | Claude | Grok | OpenRouter
+**GPU**: A100 On-Demand (DO Cloud, per-second billing)
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>🔍 View Complete Pipeline Visualization</b></summary>
+---
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                    DEEPWEAY-SMS DISTILLATION FLOW                   │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  📥 INPUT LAYER                                                     │
-│  ├─ 30 GitHub Repositories                                         │
-│  ├─ Notion Knowledge Base (908 vectors)                            │
-│  └─ Legacy Code Archives                                           │
-│                          ↓                                          │
-│  🧪 DISTILLATION LAYER                                             │
-│  ├─ Stage 1: Noise Removal        (36% dedup)                     │
-│  ├─ Stage 2: Core Extraction      (semantic filter)               │
-│  ├─ Stage 3: Logic Reconstruction (knowledge graph)               │
-│  └─ Stage 4: Creative Rendering   (markdown polish)               │
-│                          ↓                                          │
-│  💾 VECTOR LAYER                                                    │
-│  ├─ Supabase Vector Database                                       │
-│  ├─ 768-dimensional embeddings                                     │
-│  └─ Semantic search enabled                                        │
-│                          ↓                                          │
-│  📤 OUTPUT LAYER                                                    │
-│  ├─ 7 Golden Documents (76KB)                                      │
-│  ├─ AI Strategy Manuals                                            │
-│  ├─ MVP Battle Plans                                               │
-│  └─ Gemini Optimization Guides                                     │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-</details>
+## ⚡ Tech Arsenal | 技術軍火庫
 
 <div align="center">
 
-### 📊 Real-Time Metrics Dashboard
+### 🔐 Security Stack
 
-| Metric | Value | Status |
-|--------|-------|--------|
-| 🎯 Active Repos | 28 | ![](https://img.shields.io/badge/-Live-success) |
-| 💎 Distilled Docs | 7 | ![](https://img.shields.io/badge/-Gold-yellow) |
-| 🔥 Vector Database | 908 entries | ![](https://img.shields.io/badge/-Synced-blue) |
-| ⚡ Compression Ratio | 2000:1 | ![](https://img.shields.io/badge/-Optimal-green) |
-| 🧬 Knowledge Purity | 98% | ![](https://img.shields.io/badge/-Elite-purple) |
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+</p>
+
+### 🧠 AI/ML Stack
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+</p>
+
+### ☁️ Cloud Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+### 💻 Development Stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
 
 </div>
 
 ---
 
-## 🎯 Featured Repositories
+## 🏆 Featured Projects | 精選項目
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏆 [deepweay-digital-gold-vault](https://github.com/web3-ai-game/deepweay-digital-gold-vault)
-![Stars](https://img.shields.io/github/stars/web3-ai-game/deepweay-digital-gold-vault?style=social)
-![Language](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### 🤖 [sms-agentic-tg-bot](https://github.com/web3-ai-game/sms-agentic-tg-bot)
+![Language](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![API](https://img.shields.io/badge/Grok_4-API-000000?style=flat&logo=x&logoColor=white)
 
-**The Core Distillation Output**
-- 🧠 Cognitive System Source Code
-- 📚 7 Golden Knowledge Documents
-- 🎯 30-Day MVP Battle Plan
-- 🔑 Gemini API Ultimate Strategy
+**Dual AI Bot System for Telegram**
+雙AI機器人系統 - Grok 4 驅動
+
+- � Deep Reasoning Mode (Grok-4)
+- 🔒 Anti-Abuse Protection (2 req/min)
+- 💬 Multi-model Routing
+- 📊 Cognitive Health Monitoring
+
+**Bot**: [@svs_pve_bot](https://t.me/svs_pve_bot)
 
 </td>
 <td width="50%">
 
-### 🎓 [ai-tools-hub](https://github.com/web3-ai-game/ai-tools-hub)
-![Stars](https://img.shields.io/github/stars/web3-ai-game/ai-tools-hub?style=social)
+### 📚 [MD](https://github.com/web3-ai-game/MD)
+![Language](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Books](https://img.shields.io/badge/1016_Books-Knowledge_Base-FF6B6B?style=flat)
+
+**Personal Knowledge Base**
+個人知識庫 - 1016本書籍
+
+- 📖 1016 Books Indexed
+- 🗂️ 1303 Structured Data Entries
+- � Semantic Search Enabled
+- 🧬 Vector Embeddings (768-dim)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏢 [oece-tech](https://github.com/web3-ai-game/oece-tech)
 ![Language](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Status](https://img.shields.io/badge/Production-Live-00C853?style=flat)
 
-**AI-Powered Education Platform**
-- 🤖 35+ AI Tools
-- 💰 Gemini 2.5 Flash Integration
-- 🌍 5 Languages Support
-- 📊 89% Profit Margin Design
+**Tech Hub & Project Navigator**
+極客母艦 | 項目導航中心
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔐 [sms-digital-assets-ultra](https://github.com/web3-ai-game/sms-digital-assets-ultra)
-![Language](https://img.shields.io/badge/Archive-FF6B6B?style=flat&logo=files&logoColor=white)
-
-**30 Repos Refined Archive**
-- 📦 1305 Golden Files
-- 🧬 51% Deduplication
-- ⚡ 88% Compression
-- 🎯 6-Layer Cognitive Architecture
+- 🌐 Domain: [oece.tech](https://oece.tech)
+- 🚀 Full-Stack Platform
+- 📊 Project Dashboard
+- 🔗 Service Integration Hub
 
 </td>
 <td width="50%">
 
-### 🍄 [svs-telegram-bot](https://github.com/web3-ai-game/svs-telegram-bot)
+### 💎 [deepweay-digital-gold-vault](https://github.com/web3-ai-game/deepweay-digital-gold-vault)
 ![Language](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Compression](https://img.shields.io/badge/2000x-Compression-FFD700?style=flat)
 
-**Organic Architecture Bot**
-- 🤖 @svskilo Telegram Bot
-- 🍄 Mycelial Network Design
-- 🌱 Growth-Oriented Structure
-- 💬 Natural Language Interface
+**Knowledge Distillation Vault**
+數字黃金庫 - 76KB高密度知識
+
+- 🧠 166MB → 76KB (99.95% compression)
+- � 7 Golden Documents
+- 🎯 AI Distillation Methodology
+- 🔑 Gemini Strategy Guides
 
 </td>
 </tr>
@@ -184,219 +222,168 @@ AI_Stack:
 
 ---
 
-## 💻 Tech Stack & Certifications
+## � GitHub Analytics | 數據統計
 
 <div align="center">
 
-### 🎓 Professional Certifications
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=web3-ai-game&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web3-ai-game&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=web3-ai-game&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B6B&currStreakLabel=00FF41" />
+
+### 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=web3-ai-game&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+
+### � Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=web3-ai-game&theme=redical&hide_border=true&bg_color=0D1117&color=00FF41&line=FF6B6B&point=00FF41" />
+
+</div>
+
+---
+
+## � Digital Nomad Perks | 數字遊民福利
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║  🎁 ENCOUNTER BONUS | 偶遇福利                                                ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║  🌏 If you meet me traveling in Southeast Asia:                              ║
+║     如果你在東南亞旅行時偶遇我：                                               ║
+║                                                                               ║
+║     🎯 FREE $10 Grok API Credits                                             ║
+║     🎯 FREE One Service of Your Choice                                       ║
+║     🎯 免費贈送 $10 Grok API 額度                                             ║
+║     🎯 免費任選一項服務                                                       ║
+║                                                                               ║
+║  📍 Currently Based: Thailand 🇹🇭 | Laos 🇱🇦 | Malaysia 🇲🇾                    ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 📬 Contact | 聯繫方式
+
+<div align="center">
+
+### 🔐 Secure Communication Only | 僅支持安全通訊
 
 <table>
 <tr>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/google-cloud.png" width="80"/>
-<br />
-<b>Google Cloud Professional</b>
-<br />
-<img src="https://img.shields.io/badge/Status-Certified-4285F4?style=for-the-badge" />
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/telegram-app.png" width="60"/>
+<br/><b>Telegram</b><br/>
+<a href="https://t.me/svskilo">@svskilo</a>
 </td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/000000/github.png" width="80"/>
-<br />
-<b>GitHub Education PRO</b>
-<br />
-<img src="https://img.shields.io/badge/Status-Active-00C853?style=for-the-badge" />
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/discord-logo.png" width="60"/>
+<br/><b>Discord</b><br/>
+<code>Priority</code>
 </td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/000000/teacher.png" width="80"/>
-<br />
-<b>Educator Verified</b>
-<br />
-<img src="https://img.shields.io/badge/Status-Verified-FF6D00?style=for-the-badge" />
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/line-me.png" width="60"/>
+<br/><b>LINE</b><br/>
+<code>Available</code>
 </td>
-</tr>
-</table>
-
-### ⚡ Technology Arsenal
-
-```text
-┌─────────────────┬─────────────────┬─────────────────┐
-│   🧠 AI/ML      │   ☁️ Cloud      │   🛠️ DevOps     │
-├─────────────────┼─────────────────┼─────────────────┤
-│ Gemini 2.0      │ GCP Platform    │ Docker          │
-│ OpenRouter      │ Vercel          │ GitHub Actions  │
-│ Supabase        │ Railway         │ Terraform       │
-│ Vector DBs      │ Cloudflare      │ Kubernetes      │
-└─────────────────┴─────────────────┴─────────────────┘
-
-┌─────────────────┬─────────────────┬─────────────────┐
-│   💻 Frontend   │   🗄️ Backend    │   📱 Mobile     │
-├─────────────────┼─────────────────┼─────────────────┤
-│ Next.js 15      │ Node.js         │ React Native    │
-│ React 19        │ Python          │ Telegram API    │
-│ TypeScript      │ FastAPI         │ PWA             │
-│ TailwindCSS     │ Supabase        │ Expo            │
-└─────────────────┴─────────────────┴─────────────────┘
-```
-
-</div>
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=web3-ai-game&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web3-ai-game&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=web3-ai-game&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
-
-### 🏆 GitHub Trophy
-
-<img src="https://github-profile-trophy.vercel.app/?username=web3-ai-game&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-
-### 📊 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=web3-ai-game&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=00D9FF" />
-
-</div>
-
----
-
-## 🌟 Philosophy & Approach
-
-<div align="center">
-
-> ### 🧠 "知識不在於多，而在於精；代碼不在於長，而在於明"
-> *Knowledge is not about quantity, but quality; Code is not about length, but clarity*
-
-</div>
-
-<table>
-<tr>
-<td width="33%">
-
-### 🎯 **Distillation First**
-```
-Chaos → Structure → Gold
-166MB → 908 Vectors → 76KB
-```
-Extracting signal from noise through multi-stage AI distillation.
-
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/slack-new.png" width="60"/>
+<br/><b>Slack</b><br/>
+<code>sms_pve</code>
 </td>
-<td width="33%">
-
-### ⚡ **Speed & Efficiency**
-```
-Gemini 2.0 Flash
-$0.001/request
-28 Free API Keys
-```
-Optimizing for cost and performance without sacrificing quality.
-
-</td>
-<td width="33%">
-
-### 🌱 **Organic Growth**
-```
-Mycelial Architecture
-Natural Expansion
-Knowledge Network
-```
-Building systems that evolve and adapt like living organisms.
-
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/notion.png" width="60"/>
+<br/><b>Notion</b><br/>
+<code>sms_pve</code>
 </td>
 </tr>
 </table>
 
+### � Email Channels
+
+| Purpose | Address | Priority |
+|---------|---------|----------|
+| 🔐 **Secure/Private** | `svs.sos@pm.me` | 🔴 High |
+| 🏢 **Business** | `root@oece.tech` | 🟡 Medium |
+| ⭐ **VIP** | `vip@oece.tech` | 🟡 Medium |
+| � **General** | `oece.tech@gmail.com` | � Normal |
+
+### 📱 Phone (Thailand)
+
+<img src="https://img.shields.io/badge/🇹🇭_Thailand-+66_****_9916-00FF41?style=for-the-badge" />
+
+> ⚠️ **Telegram/Email preferred** | 優先使用 Telegram 或郵件聯繫
+> 
+> 🤝 **In-person meetings available** | 支持面談
+
+</div>
+
 ---
 
-## 🔥 Current Focus (Beta Phase)
+## � Crypto | 加密貨幣
+
+<div align="center">
+
+### Ethereum (ETH)
+
+```
+0x8888888888888888888888888888888888888888
+```
+
+<img src="https://img.shields.io/badge/ETH-Lucky_8s_Wallet-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" />
+
+</div>
+
+---
+
+## 🤖 AI Assistant | AI 助理
+
+<div align="center">
+
+<a href="https://t.me/svs_pve_bot">
+  <img src="https://img.shields.io/badge/🤖_Sexy_Assistant-@svs__pve__bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 
 ```yaml
-🚀 Phase 1: Foundation [COMPLETED ✅]
-  - 30 repositories analyzed
-  - 7 golden documents distilled
-  - Vector database initialized
-  - Knowledge graph constructed
-
-🎯 Phase 2: Vector Expansion [IN PROGRESS 🔄]
-  - Supabase vector setup
-  - Semantic search API
-  - Auto-distillation pipeline
-  - Web interface development
-
-💎 Phase 3: Production [PLANNED 📋]
-  - Public API launch
-  - Community features
-  - Monetization strategy
-  - Scale infrastructure
+Bot_Specs:
+  Engine: Grok-4 API (xAI)
+  Features:
+    - Deep Reasoning Mode
+    - Memory System (Auto-extract user info)
+    - Thailand Life & Legal Expertise
+    - Anti-Abuse: 2 requests/minute limit
+  Status: Production Ready ✅
 ```
 
----
-
-## 📚 Knowledge Repository Index
-
-<details>
-<summary><b>🔥 Core Distillation Documents (7 Files, 76KB)</b></summary>
-
-1. **[00-README-認知系統源代碼.md](https://github.com/web3-ai-game/deepweay-digital-gold-vault)** (7.2KB)
-   - System architecture overview
-   - Cognitive distillation methodology
-
-2. **[02-ai-distillation-strategy.md](https://github.com/web3-ai-game/deepweay-digital-gold-vault)** (10.9KB)
-   - 4-stage distillation process
-   - Temperature optimization guide
-
-3. **[18-deepweay-sms-battle-pack-v2.md](https://github.com/web3-ai-game/deepweay-digital-gold-vault)** (10.3KB)
-   - 30-day MVP sprint plan
-   - Resource allocation strategy
-
-4. **[19-deepweay-gemini-strategy-enhanced.md](https://github.com/web3-ai-game/deepweay-digital-gold-vault)** (11.4KB)
-   - Gemini API optimization
-   - 28 free keys management
-
-5. **[20-earth-online-vector-universe.md](https://github.com/web3-ai-game/deepweay-digital-gold-vault)** (11.7KB)
-   - 768-dimensional soul system
-   - Vector universe philosophy
-
-6. **[21-index-workspace-overview.md](https://github.com/web3-ai-game/deepweay-digital-gold-vault)** (6.6KB)
-   - 7 project navigation map
-   - Workspace architecture
-
-7. **[22-windsurf-cascade-development-capacity.md](https://github.com/web3-ai-game/deepweay-digital-gold-vault)** (16.3KB)
-   - Windsurf development guide
-   - Cascade workflow optimization
-
-</details>
+</div>
 
 ---
 
-## 🤝 Connect & Collaborate
+## 🌐 Infrastructure | 基礎設施
 
 <div align="center">
 
-<a href="mailto:contact@deepweay.dev">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/web3-ai-game">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://t.me/svskilo">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+| Provider | Purpose | Status |
+|----------|---------|--------|
+| <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" /> | Primary Cloud + AI APIs | 🟢 Active |
+| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" /> | Backup + CDN | 🟢 Active |
+| <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white" /> | VPS + GPU (A100) | 🟢 Active |
+| <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" /> | DNS + WAF + Tunnel | 🟢 Active |
 
-### 💡 Open to collaborations on:
-- 🧠 AI/ML Knowledge Distillation
-- 🚀 Educational Technology Projects
-- 🌍 Open Source Contributions
-- 💬 Technical Consulting
+### 🔑 API Access
 
----
-
-<sub>⭐ Star my repositories if you find them useful!</sub>
-<br />
-<sub>🌟 Building the future, one distilled insight at a time</sub>
+<p>
+  <img src="https://img.shields.io/badge/Gemini-Pro_API-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-API-8B5CF6?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok-xAI_API-000000?style=flat-square&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenRouter-Unified_API-FF6B6B?style=flat-square" />
+</p>
 
 </div>
 
@@ -404,14 +391,36 @@ Building systems that evolve and adapt like living organisms.
 
 <div align="center">
 
+### 🧠 Philosophy | 理念
+
+> **"Security is not a product, but a process."**
+> 
+> **「安全不是產品，而是過程。」**
+> 
+> — Bruce Schneier
+
+<br/>
+
 ```ascii
-┌─────────────────────────────────────────────────────────────┐
-│  🌊 DeepWeay Labs - Where Chaos Becomes Clarity            │
-│  🧠 AI-Native Development | 💎 Knowledge Distillation      │
-│  ⚡ Beta Testing in Progress | 🚀 Join the Journey         │
-└─────────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║   🌊 DeepWeay Labs                                                            ║
+║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
+║                                                                               ║
+║   🔐 Offensive Security    |    🧠 AI Infrastructure    |    🌏 Remote First  ║
+║   紅隊滲透測試             |    AI 基礎設施架構         |    遠程優先         ║
+║                                                                               ║
+║   📍 oece.tech    |    🔒 Secure Comms Only    |    🌍 Digital Nomad Life    ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24&height=100&section=footer)
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=web3-ai-game&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn)
 
 </div>
