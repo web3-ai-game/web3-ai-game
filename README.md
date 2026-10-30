@@ -70,46 +70,6 @@ Single Go binary. Seven vendors, one SSE writer, tiered daily quotas, admin pane
 </td>
 <td width="50%">
 
-### [vps-guard](https://github.com/web3-ai-game/vps-guard)
-
-Tails `auth.log` and nginx, bans through UFW, sends Telegram alerts, and gates the ops panel behind a PIN.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [ebook-to-md](https://github.com/web3-ai-game/ebook-to-md)
-
-Ebook to Markdown with OCR, LLM structure detection, resume, and dedup. The repo notes **5,153** documents processed.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td width="50%">
-
-### [chat-distill-pipeline](https://github.com/web3-ai-game/chat-distill-pipeline)
-
-Pulls local and cloud files, distills at low temperature, redacts, and exports JSONL for a vector store.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [eldercare-ai-bot](https://github.com/web3-ai-game/eldercare-ai-bot)
-
-Two Telegram bots for family eldercare. Shared memory, model routing, and a multi-model cross-check. Docker Compose.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-<td width="50%">
-
 ### [grok-council](https://github.com/web3-ai-game/grok-council)
 
 Self-hosted Grok client. Official multi-agent passthrough, plus a visible 8-seat MoE council.
@@ -118,9 +78,45 @@ Self-hosted Grok client. Official multi-agent passthrough, plus a visible 8-seat
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%">
 
----
+### [cursor-xai-gateway](https://github.com/web3-ai-game/cursor-xai-gateway)
+
+LiteLLM proxy so Cursor can call xAI without the key entering the IDE. Context aliases stay under the upstream cap.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%">
+
+### [chain-query-proxy](https://github.com/web3-ai-game/chain-query-proxy)
+
+Stdlib Go proxy for on-chain lookups. Chain allowlist, per-IP token bucket, cache, 2MB read cap. Key stays on the server.
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [vps-blue-panel](https://github.com/web3-ai-game/vps-blue-panel)
+
+Single-file blue-team panel. 32-point score, SSH changes arm an auto-rollback timer, local honeypot. No network installer.
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+</td>
+<td width="50%">
+
+### [system-design-portfolio](https://github.com/web3-ai-game/system-design-portfolio)
+
+Architecture notes for the private production systems: SSE gateway, expert council, Cursor gateway, interpreter bot.
+
+</td>
+</tr>
+</table>
 
 ## Contract work
 
