@@ -24,6 +24,8 @@ Cached prompt tokens were 13.8B. Uncached prompt tokens were 1.8B. 13.8 / 15.6 =
 
 Architecture for the systems behind this bill: **[system-design-portfolio](https://github.com/web3-ai-game/system-design-portfolio)**.
 
+Public code for the same systems: [multi-llm-gateway](https://github.com/web3-ai-game/multi-llm-gateway), [grok-council](https://github.com/web3-ai-game/grok-council), [cursor-xai-gateway](https://github.com/web3-ai-game/cursor-xai-gateway).
+
 ---
 
 ## About
@@ -59,11 +61,11 @@ Languages in production: Go, Python, TypeScript, JavaScript, Bash. Deploy path i
 <tr>
 <td width="50%">
 
-### [system-design-portfolio](https://github.com/web3-ai-game/system-design-portfolio)
+### [multi-llm-gateway](https://github.com/web3-ai-game/multi-llm-gateway)
 
-Architecture and benchmarks for the private production systems: multi-model SSE gateway, MoE expert council, Cursor-to-xAI gateway, interpreter bot.
+Single Go binary. Seven vendors, one SSE writer, tiered daily quotas, admin panel. Sanitized public export.
 
-No source. Diagrams and numbers only.
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 </td>
 <td width="50%">
@@ -108,11 +110,11 @@ Two Telegram bots for family eldercare. Shared memory, model routing, and a mult
 </td>
 <td width="50%">
 
-### [NYCKING](https://github.com/web3-ai-game/NYCKING)
+### [grok-council](https://github.com/web3-ai-game/grok-council)
 
-Translation PWA for Chinese, English, Thai, Lao, and Burmese. Voice and text. Provider keys stay on the API server.
+Self-hosted Grok client. Official multi-agent passthrough, plus a visible 8-seat MoE council.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
